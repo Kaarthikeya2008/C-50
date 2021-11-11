@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+}
+
+/**{
+    border: solid;
+}*/
+.header{
+    background-color: rgb(163, 180, 196);
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p,h2{
+    text-align: center;
+}
+.socialMedia{
+    display: flex;
+    justify-content: flex-end;
+}
